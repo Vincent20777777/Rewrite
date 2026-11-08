@@ -6,4 +6,4 @@
 http-request ^https?://hyxq04\.com/ script-path=https://raw.githubusercontent.com/Vincent20777777/Rewrite/main/huanyu/dist/loon.js, requires-body=true, binary-body-mode=true, tag=幻宇星球VIP
 
 [Mitm]
-hostname = hyxq04.com
+hostname = hyxq04.com, *.hyxq04.com, *hyxq*
