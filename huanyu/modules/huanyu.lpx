@@ -8,4 +8,4 @@
 http-request ^https?://(?:huanyuxingqiu\.\w+|daoyu\.\w+|\w*hyxq\w*\.\w+)/(?!.*\.(?:png|jpe?g|gif|webp|svg|ico|css|js|woff2?|ttf|eot|mp[34]|zip|rar)(?:\?|$)).* script-path=https://raw.githubusercontent.com/ios151/Rewrite/main/huanyu/dist/loon.js, requires-body=true, binary-body-mode=true, tag=幻宇星球 VIP 解锁
 
 [Mitm]
-hostname = huanyuxingqiu.*, daoyu.*, hyxq03.com, hyxq04.com
+hostname = huanyuxingqiu.*, daoyu.*, hyxq03.com, hyxq04.com, *hyxq*
